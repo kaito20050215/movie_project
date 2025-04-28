@@ -403,3 +403,13 @@ AppData/
 Documents/
 Cookies/
 Local Settings/
+# Ignore system-related directories
+AppData/
+Documents/
+Cookies/
+Local Settings/
+My Documents/
+Recent/
+SendTo/
+Templates/
+スタート メニュー/
