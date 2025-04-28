@@ -398,3 +398,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+# Ignore AppData and other system-related directories
+AppData/
+Documents/
+Cookies/
+Local Settings/
